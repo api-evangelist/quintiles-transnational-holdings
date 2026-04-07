@@ -1,7 +1,12 @@
 aid: quintiles-transnational-holdings
-url: https://raw.githubusercontent.com/api-evangelist/quintiles-transnational-holdings/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/quintiles-transnational-holdings/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.quintiles-transnational-holdings.com
+description: >-
+  Quintiles Transnational Holdings was a Fortune 500 company that provided biopharmaceutical
+  development and commercial outsourcing services before merging with IMS Health to
+  form IQVIA.
