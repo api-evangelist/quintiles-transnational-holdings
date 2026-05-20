@@ -24,6 +24,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/quintilesims
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/quintiles-transnational-holdings
   - type: Website
     url: https://www.iqvia.com/
     name: IQVIA Website (Successor)
