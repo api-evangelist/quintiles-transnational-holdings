@@ -10,7 +10,7 @@ description: >-
   not maintain a public API program; all developer-facing capabilities are now part
   of IQVIA.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Pharmaceuticals
   - Biotechnology
