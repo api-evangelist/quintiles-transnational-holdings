@@ -1,7 +1,9 @@
 ---
 title: MannKind Expands Executive Leadership Team
 url: https://investors.mannkindcorp.com/news-releases/news-release-details/mannkind-expands-executive-leadership-team
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quintiles Transnational Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

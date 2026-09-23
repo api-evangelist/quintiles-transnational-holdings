@@ -1,7 +1,9 @@
 ---
 title: Quintiles Announces Closing of Secondary Public Offering and ...
 url: https://www.fiercebiotech.com/cro/quintiles-announces-closing-of-secondary-public-offering-and-repurchase-of-common-stock
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quintiles Transnational Holdings" press release artificial intelligence'
 position: 3
 source: serpapi-google

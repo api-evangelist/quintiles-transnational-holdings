@@ -1,7 +1,9 @@
 ---
 title: NC-QUINTILES-NCTA | Business Wire - Via Ritzau
 url: https://via.ritzau.dk/pressemeddelelse/5955995/nc-quintiles-ncta?publisherId=90456
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quintiles Transnational Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

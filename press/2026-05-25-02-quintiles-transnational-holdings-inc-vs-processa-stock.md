@@ -1,7 +1,9 @@
 ---
 title: 'Quintiles Transnational Holdings Inc. vs Processa : Stock ...'
 url: https://danelfin.com/stocks/Q-quintiles-transnational-holdings-inc-vs-PCSA-processa-compare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Quintiles Transnational Holdings" press release artificial intelligence'
 position: 2
 source: serpapi-google
